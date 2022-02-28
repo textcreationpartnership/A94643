@@ -1,0 +1,274 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the right Honourable the Lords Spiritual and Temporal, in Parliament assembled, the petition and case of the embroiderers flourishers, raisers and stitchers of East-India silks, and other goods, and stainers thereof, together with those that employ them, and of many others; in relation to the bill, for prohibiting the wearing of East-India and Persia wrought silks, Bengals, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94643</idno>
+            <idno type="STC">Wing T1668</idno>
+            <idno type="STC">ESTC R230432</idno>
+            <idno type="EEBO-CITATION">99899483</idno>
+            <idno type="PROQUEST">99899483</idno>
+            <idno type="VID">153665</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94643)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153665)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2374:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the right Honourable the Lords Spiritual and Temporal, in Parliament assembled, the petition and case of the embroiderers flourishers, raisers and stitchers of East-India silks, and other goods, and stainers thereof, together with those that employ them, and of many others; in relation to the bill, for prohibiting the wearing of East-India and Persia wrought silks, Bengals, &amp;c.</title>
+               </titleStmt>
+               <extent>[2], 15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed anno, 1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clothing trade --  England --  Early works to 1800.</term>
+               <term>Textile fabrics --  England --  Early works to 1800.</term>
+               <term>Textile workers --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:153665:1"/>
+            <p>
+               <hi>THe Amendment of the Silver Coins, being lookt upon as <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Matter neceſſary to be Perform'd, i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is thought convenient that this</hi> Re<g ref="char:EOLhyphen"/>port <hi>ſhould be Printed, to the en<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that any Perſons who have Conſider<g ref="char:EOLhyphen"/>ed an Affair of this Nature, m<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> (if they pleaſe) Communicate the<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Thoughts, for Rendring the Deſig<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> here aim'd at more Perfect or Agree<g ref="char:EOLhyphen"/>able to the Publick Service.</hi>
+            </p>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:153665:1" rendition="simple:additions"/>
+            <p>THE PETITION and CASE OF THE <hi>Embroiderers, Flouriſhers, Raiſers</hi> and <hi>Stitchers</hi> of <hi>Eaſt-India</hi> Silks, and other Goods, and <hi>Stainers</hi> thereof,</p>
+            <p>Together with thoſe that Employ them, And of many others, <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:153665:2"/>
+            <pb facs="tcp:153665:2"/>
+            <p>TO The Right Honourable THE Lords Spiritual and Temporal, In PARLIAMENT Aſſembled.</p>
+            <p>THE PETITION and CASE OF THE <hi>Embroiderers, Flouriſhers, Raiſers</hi> and <hi>Stitchers</hi> of <hi>Eaſt-India</hi> Silks, and other Goods, and <hi>Stainers</hi> thereof, Together with thoſe that Employ them, And of many Others; In Relation to the BILL, FOR <hi>Prohibiting the Wearing of</hi> Eaſt-India <hi>and</hi> Perſia Wrought Silks, Bengals, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed <hi>Anno,</hi> 1696.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153665:3"/>
+            <pb n="5" facs="tcp:153665:3"/>
+            <head>TO The Right Honourable THE Lords Spiritual and Temporal, NOW Aſſembled in PARLIAMENT.</head>
+            <opener>
+               <salute>May it Pleaſe Your Lordſhips,</salute>
+            </opener>
+            <p>WE Humbly Addreſs this Paper to Your Lordſhips in General: But adventure in an eſpecial manner <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Implore the Favour of You, Our good Lords, the Biſhops; becauſe Matters rela<g ref="char:EOLhyphen"/>ting to Piety and Vertue are more imme<g ref="char:EOLhyphen"/>diately under the Care of Your Lordſhips.</p>
+            <p>The Late Queen, of Ever Bleſſed Me<g ref="char:EOLhyphen"/>mory, well knowing, That moſt Vices have <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir Original from Sloth and Idleneſs, did
+<pb n="6" facs="tcp:153665:4"/>
+by Her own Good Example, give great Encouragement to all kind of Works with the Needle, and otherwiſe, relating to your Petitioners reſpective Employments; where by thoſe of Better Quality might find Di<g ref="char:EOLhyphen"/>verſion and Employment, and the Meane<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sort receive an Honeſt Maintenance.</p>
+            <p>There is hardly any Country in the World, where the Women have been ſo much a Burthen to the Publick, as in <hi>England;</hi> whereas, in other Nations, they Contribute a large Proportion to the Live<g ref="char:EOLhyphen"/>lyhood of their Families.</p>
+            <p>But the Countenance Her Sacred Ma<g ref="char:EOLhyphen"/>jeſty did give to Needle Works of all kinds has made them for theſe Six Years laſt paſt ſo Faſhionable, and of ſuch General Uſe in this Kingdom, that many Thouſands of Women do thereby Maintain themſelves their Aged Parents, and Young Children.</p>
+            <p>By which Means the Weaker Sex have been preſerved from thoſe Temptations t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which Want might otherwiſe incline them and, by this Houſwiſery, many Mode<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Virgins have recommended themſelves t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Frugal and Induſtrious Husbands.</p>
+            <p>We muſt crave leave to lay before Yo<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Lordſhips, That the long War Abroa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Civil War in <hi>Ireland,</hi> and other Acc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dents at Home, have made great Chang<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="7" facs="tcp:153665:4"/>
+in Families heretofore Rich and Proſperous. And we the Principal Employers of theſe <hi>Embroiderers, Stitchers,</hi> &amp;c. in and about <hi>London,</hi> (if it were fit and proper) could make it appear to the Parliament, That very many Gentlewomen of good Birth and Education, have not any Bread or Sub<g ref="char:EOLhyphen"/>ſiſtance, but what they Earn Dayly by their Work, as 'tis deliver'd to us.</p>
+            <p>We have not thought it Dutiful or De<g ref="char:EOLhyphen"/>cent to trouble either Houſes of Parliament with Complaints or Clamours, Not but that our Numbers are exceeding great, and our Caſe full as deplorable as that of the <hi>Weavers.</hi>
+            </p>
+            <p>We ſhall not pretend to Calculate how many Hands are thus employ'd, but this in ſome meaſure may be gueſs'd at, by Con<g ref="char:EOLhyphen"/>ſidering, of what general Uſe, from the higheſt, to the loweſt, thoſe <hi>Indian</hi> Goods are, which we improve in <hi>England.</hi>
+            </p>
+            <p>If, as ſome People apprehend, the in<g ref="char:EOLhyphen"/>tended Prohibitions ſhould Occaſion the intire Loſs of the <hi>Eaſt-India</hi> Trade, we may venture to affirm, That many Thou<g ref="char:EOLhyphen"/>ſand Families will thereby be utterly ruin'd who have no Other Subſiſtance than by bettering thoſe Sort of Goods by their Skill and Fancy.</p>
+            <p>
+               <pb n="8" facs="tcp:153665:5"/>
+If the Prohibitions ſhould ſo Opperate as as to looſe the Trade, it would undo ſome Hundreds of Families, who live by Print<g ref="char:EOLhyphen"/>ing, Dying, and Staining the Courſer Cal<g ref="char:EOLhyphen"/>licoes. For in ſuch a Caſe thoſe who ſet theſe Men at Work, muſt be forc'd either to buy Callicoes of the <hi>Dutch,</hi> or <hi>Scotch-Cloth</hi> at near double the Price.</p>
+            <p>Many Thouſand Hands are likewiſe employ'd in Stitching <hi>Callicoes,</hi> and Flou<g ref="char:EOLhyphen"/>riſhing <hi>Muzſlings,</hi> which muſt intirely loſe their Work, if theſe Prohibitions ſhould deſtroy the <hi>Eaſt-India</hi> Trade; no<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> other kind of Linnen being proper for that Uſe, but fine <hi>Callico</hi> and <hi>Muzſlin.</hi>
+            </p>
+            <p>But may it pleaſe your good Lord<g ref="char:EOLhyphen"/>ſhips, The intended Prohibitions will cer<g ref="char:EOLhyphen"/>tainly ruin yet a greater Number of Peo<g ref="char:EOLhyphen"/>ple, who intirely Subſiſt, by Staining, Painting, Printing, Embroidering, Stitch<g ref="char:EOLhyphen"/>ing, and Flouriſhing a great part of the <hi>Ginghams, Plain Damask, Bengals, Taffa<g ref="char:EOLhyphen"/>ties</hi> and <hi>Satins,</hi> and ſeveral other ſorts of Goods that come from <hi>India.</hi>
+            </p>
+            <p>If it ſhould be Objected, That this Workmanſhip may be employ'd upon <hi>Silks</hi> Manufactur'd at home; We humbly An<g ref="char:EOLhyphen"/>ſwer, That it will not be Worth Our while ſo to do, and that it cannot be practicable, becauſe many of the fore<g ref="char:EOLhyphen"/>mention'd
+<pb n="9" facs="tcp:153665:5"/>
+Wares, come as Cheap into Our Hands, as the Silk comes into the Weavers Reed.</p>
+            <p>As for Example, The firſt Coſt to us, of an <hi>Indian</hi> Silk may be Two Shillings the Yard, which when We have improv'd, by Embroidering, Stitching, or other<g ref="char:EOLhyphen"/>wiſe, may Sell for Nine Shillings <hi>per</hi> Yard, whereby there is gain'd for the Manufacturers Livelyhood Seven Shillings <hi>per</hi> Yard.</p>
+            <p>A <hi>Silk</hi> of very little better Subſtance, either brought from <hi>Italy, France,</hi> and <hi>Holland,</hi> or Wrought at Home, ſhall Coſt Nine Shillings <hi>per</hi> Yard: Notwithſtand<g ref="char:EOLhyphen"/>ing which, the <hi>Indian Silk</hi> ſo improv'd by us, ſhall do equal the Service, and be More acceptable to the Cuſtomer than a<g ref="char:EOLhyphen"/>ny <hi>European Silk.</hi>
+            </p>
+            <p>And, may it pleaſe your Lordſhips, ge<g ref="char:EOLhyphen"/>nerally Speaking, We can afford Wares ſo improv'd, Cheaper, as Serviceable and more pleaſing to the Eye, than any <hi>Silkman,</hi> Becauſe among the <hi>Silk-Weavers,</hi> a good Workman will expect half a Crown a-day, and not work hard from Six in the Morn<g ref="char:EOLhyphen"/>ing to Six at Night, whereas Our People begin at Five, and are at their Needles
+<pb n="10" facs="tcp:153665:6"/>
+till Nine at Night: and much the great<g ref="char:EOLunhyphen"/>eſt part of them earn not above Six Penc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by the Day.</p>
+            <p>It muſt without doubt import an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Country that the prime Coſt in Manu<g ref="char:EOLunhyphen"/>factures wrought from foreign Material<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhould be as low as poſſible.</p>
+            <p>And thoſe Manufactures are to be en<g ref="char:EOLhyphen"/>courag'd, which Employ many Hands though at ſmall Wages, becauſe the Profi<gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> thereby ariſing, becomes, ſo, more diſpers'd among the Common People.</p>
+            <p>And 'tis humbly hop'd, ſuch Work may be Countenanc'd by the State, tha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Employ hands which would otherwiſe b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Idle.</p>
+            <p>We who Employ many Thouſand F<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>milies in the ſecond Manufacturing an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Improving <hi>Eaſt-India</hi> Goods, are ready t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> make it appear before Your Lordſhips when call'd upon, by the Oaths of Credi<g ref="char:EOLhyphen"/>ble Perſons,</p>
+            <p>Firſt, That the Prime Coſt of ou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Goods is ſo low that we can affor<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to let the Poor Manufacturers be rea<g ref="char:EOLhyphen"/>ſonable Gainers by Us.</p>
+            <p>Secondly, That this Gain is widely diſ<g ref="char:EOLhyphen"/>pers'd among the Common People, reaching to Parts very diſtant from <hi>London.</hi>
+            </p>
+            <p>
+               <pb n="11" facs="tcp:153665:6"/>
+Thirdly, That we Employ ſome Thou<g ref="char:EOLhyphen"/>ſands of Children and Women, who probably could not otherwiſe get an honeſt livelyhood.</p>
+            <p>And, Laſtly, May it pleaſe Your Lord<g ref="char:EOLhyphen"/>ſhips, We ſhall perhaps be able to prove, That upon the whole, not ma<g ref="char:EOLhyphen"/>ny fewer Families Subſiſt by Im<g ref="char:EOLhyphen"/>proving <hi>Eaſt-India</hi> Goods, than by means of the Silk Manufacture.</p>
+            <p>All which will appear plainly to ſuch as conſider, how great the Conſumption is, of theſe Wares, by both Sexes, and a<g ref="char:EOLhyphen"/>mong all Degrees of People.</p>
+            <p>The Head-Dreſſings for Women, Waſte-Coats, and Night-Caps for Men, Stitch'd Quilts, Embroideries, and Flouriſh'd <hi>Muz<g ref="char:EOLhyphen"/>ſlins</hi> for both Sexes, with many other things that might be enumerated, muſt of Neceſſity ſet many Hands at work upon different Manufactures, of which the Prime Coſt of the firſt Materials at the <hi>Eaſt-India</hi> Sales, is not, one with another, above a third; the other two thirds being divided among the Poorer ſort, and ſuch as Em<g ref="char:EOLhyphen"/>ploy 'em.</p>
+            <p>We are afflicted from the bottom of Our Hearts at the Caſe of the Poor <hi>Wea<g ref="char:EOLhyphen"/>vers</hi> who want Work, but we muſt Crave
+<pb n="12" facs="tcp:153665:7"/>
+leave to lay before Your Lordſhips, That VVe the Employers of theſe Embroiderers and other Manufacturers are credibly In<g ref="char:EOLhyphen"/>formed that the <hi>Weavers</hi> want of Buſineſs does not ariſe from the Importation of <hi>Eaſt-India</hi> Goods, but from other Cauſes. For,</p>
+            <p>Firſt, Before the VVar, when much greater Quantities of <hi>Wrought Silks</hi> were brought from <hi>India,</hi> they had full Employment and there was no Complaint.</p>
+            <p>Secondly, The Exceſſive Price of <hi>Raw Silk,</hi> and the preſent Scarcity of Money (occaſion'd by the VVar) are Cauſes that the Head <hi>Weavers</hi> cannot ſet the Poor to VVork.</p>
+            <p>So long a VVar muſt needs afflict all the different Ranks of Men, and the <hi>Weavers</hi> bear but their proportion in the Common Calamity.</p>
+            <p>The Nobility and Gentry pay in Taxes a Fifth part of their Revenues, beſides well nigh double for all Materials of a Foreign Growth.</p>
+            <p>The Merchant pays more now for Freight and Seamens VVages than ever, beſides the hazzard he runs from an Enemy, who has
+<pb n="13" facs="tcp:153665:7"/>
+diverted his whole Naval Strength to a Pyratical War.</p>
+            <p>The preſent Want of Species makes Trading dead every where, and we who are now Petitioners before Your Lordſhips, have Our full Share in this general Miſery; being forc'd to keep at Work, and Pay Our People, though Our Goods can have but little Vent.</p>
+            <p>But we live in hopes that the High Wiſ<g ref="char:EOLhyphen"/>dom, and Valour, of the King, will re<g ref="char:EOLhyphen"/>ſtore Our Affairs either by a Peace, or by His Victories Abroad.</p>
+            <p>And in the mean while we Your Peti<g ref="char:EOLhyphen"/>tioners humbly ſubmit it to the Conſidera<g ref="char:EOLhyphen"/>tion of Your Lordſhips, how far it may be Conſiſtent with Your Piety and Juſtice to relieve one ſort of Men at the Expence of others, a yet more helpleſs People.</p>
+            <p>We hope the Bleſſed Memory of Her Sacred Majeſty, now Deceaſed, will pre<g ref="char:EOLhyphen"/>vail upon Your Lordſhips to take Our Caſe into Your Thoughts, and the ſad Condi<g ref="char:EOLhyphen"/>tion of ſuch as depend upon Us, who are generally Orphans, Poor Widows, and Young Virgins, who muſt be depriv'd of their Subſiſtance, if the Prohibition of <hi>Eaſt-India</hi> Goods paſſes, which is now Propos'd in Parliament.</p>
+            <p>
+               <pb n="14" facs="tcp:153665:8"/>
+The Hearty Prayers of Widows and Virgins VVe hope will undoubtedly bring Succeſs to Your Lordſhips Councils, and Proſperity to the Kings Arms, who will be ſhortly Contending in the Field for the Liberties of <hi>Europe.</hi>
+            </p>
+            <p>Not only ſome Thouſands of VVomen ſubſiſt from VVork meerly occaſion'd by <hi>Eaſt-India</hi> Goods, as well as very many Families of other Manufacturers, but ma<g ref="char:EOLhyphen"/>ny Virgins alſo have been thereby preſerv'd from Vice and Corruption; And 'tis upon this Score chiefly that we preſume to Im<g ref="char:EOLhyphen"/>plore Your Lordſhips aſſiſtance, who are the Principal Protectors of Modeſty and Vertue.</p>
+            <p>The Protection of the VVeaker Sex, and the keeping of them within the Bounds of Modeſty and Goodneſs, have been alwayes the Care of VViſe Governments; becauſe in all Countries the Courage of Men does very much depend upon the Vertue of their VVomen: For at all Times, and in all Places, where the VVomen have grown Vicious, either through too much VVealth, or too much VVant, the Men have imme<g ref="char:EOLhyphen"/>diately become Fearful and Effeminate.</p>
+            <p>
+               <pb n="15" facs="tcp:153665:8"/>
+The Premiſes conſider'd, VVe humbly hope Your Lordſhips will not think it Adviſeable, nor for the Publick Good, to paſs this Bill now Propos'd for Pro<g ref="char:EOLhyphen"/>hibiting the VVearing <hi>Eaſt-India</hi> and <hi>Perſia Wrought Silks, Bengals,</hi> &amp;c.</p>
+            <p>
+               <hi>And Your Petitioners, as in Duty bound, ſhall ever Pray for the Wel<g ref="char:EOLhyphen"/>fare and Proſperity of your Lord<g ref="char:EOLhyphen"/>ſhips.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153665:9"/>
+            <pb facs="tcp:153665:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
